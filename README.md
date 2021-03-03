@@ -13,7 +13,7 @@
 ![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/OCRBasedReceiptRecognitionApplicationWithOpenCVAndTesseract/dataTransferred.png)
 
 # Added Receipts
-![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/OCRBasedReceiptRecognitionApplicationWithOpenCVAndTesseract/addedPlugs.png)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/OCRBasedReceiptRecognitionApplicationWithOpenCVAndTesseract/addedReceipts.png)
 
 # Added Products
 ![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/OCRBasedReceiptRecognitionApplicationWithOpenCVAndTesseract/addedProducts.png)
