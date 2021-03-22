@@ -1,5 +1,6 @@
 # OCR Based Receipt Recognition Application With OpenCV And Tesseract
- 
+In this project, OCR based receipt recognition application has been developed.
+
 # User GUI
 ![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/OCRBasedReceiptRecognitionApplicationWithOpenCVAndTesseract/gui.png)
 
